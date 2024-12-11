@@ -1,0 +1,11 @@
+[[monitors]]
+name = "daily"
+path = "/home/stone/resource/dailyNotes"
+exclude_types = ["*.swp"]
+exclude_dirs = ["tmp", ".git", ".svn"]
+
+[[monitors]]
+name = "anotherExample"
+path = "/home/stone/resource"
+exclude_types = ["*.swp"]
+exclude_dirs = ["tmp", ".git", ".svn"]
